@@ -34,8 +34,6 @@
 │   └── nedo-challenge-cwt-for-ref/
 ├── pyproject.toml                # 依存関係管理
 ├── poetry.lock
-├── run_pipeline.bat              # パイプライン実行スクリプト (Windows)
-├── run_pipeline.sh               # パイプライン実行スクリプト (Linux/Mac)
 └── README.md
 ```
 
