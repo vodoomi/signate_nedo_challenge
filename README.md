@@ -99,16 +99,6 @@ python src/main.py inference --mode test --model_dir ./models --data_dir ./input
 python src/main.py inference --mode both --model_dir ./models --data_dir ./input --output_path submission.json
 ```
 
-### 6. パイプライン一括実行
-
-```bash
-# Windows
-run_pipeline.bat
-
-# Linux/Mac
-bash run_pipeline.sh
-```
-
 ## アーキテクチャ
 
 ### モデル概要
