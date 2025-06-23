@@ -1,0 +1,2 @@
+# signate_nedo_challenge
+Motion Decoding Using Biosignals テーマ2：スケートボーダー重心位置予測チャレンジ 生体信号データを使ってスケートボーダーの挙動を予測する
